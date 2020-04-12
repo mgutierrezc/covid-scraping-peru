@@ -1,4 +1,4 @@
-Scraping Google Maps distances/times from province to province/district to district travel
+Scraping Waze and Google Maps distances/times from province to province/district to district travel
 ====================
 
 **Programmer:** Marco Gutierrez
