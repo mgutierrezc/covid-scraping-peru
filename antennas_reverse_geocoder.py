@@ -5,7 +5,7 @@ from geopy.exc import GeocoderTimedOut
 from geopy.extra.rate_limiter import RateLimiter
 
 doc="""
-Coordinates to Ubigeos - Reverse Geocoder for Mobile Phone Antennas in Peru
+Reverse Geocoder for Mobile Phone Antennas in Peru
 
 input: csv with coords of each antenna
 output: new csv with 2 extra columns containing the district and ubigeo of each antenna
