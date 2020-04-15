@@ -4,6 +4,13 @@ import numpy as np
 import os
 import re
 
+doc="""
+District to Ubigeo Converter
+
+Input: Inei data on Ubigeos
+Output: Panda/Csv with District (Concatenated with Province and Department info) and Ubigeo Columns
+"""
+
 # We first define a cleaner for unusual characters
 def normalize(s):
     replacements = (
