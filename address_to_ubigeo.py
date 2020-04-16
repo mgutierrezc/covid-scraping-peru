@@ -44,7 +44,7 @@ for i in range(0, len(address)):
         address[i][j] = normalize(address[i][j])
     # Erasing all the numeric character items or the ones that include a number
     for item in address[i]:
-        if re.match(r'*\d*', item):
+        if re.match(r'*\d*', item) or item=='Peru' or item=='Peru':
             address[i].remove(item)
     # Keeping the last three elements (in theory: District, Province, Department)
     address[i] = address[i][-3]
