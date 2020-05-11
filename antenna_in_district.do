@@ -11,7 +11,11 @@ global root="D:\Work Archives\Trabajo\GECE - LEEX\Kristian\Covid19\covid-scrapin
 cap mkdir "$root\distritos"
 global distritos="$root\distritos"
 cd "$root"
-************************************
+
+*******************************************************
+*Para hacer el análisis, usaremos la siguiente función*
+*******************************************************
+
 *! -point2poly-: Assigns points to polygons                                    
 *! Version 1.0.0 - 25 April 2010                                               
 *! Author: Maurizio Pisati                                                     

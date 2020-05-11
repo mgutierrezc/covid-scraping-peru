@@ -2,7 +2,10 @@ distritos/
 district_data/
 pandas.ipynb
 test_waze.py
+matrix_prob.csv
 u_antennas.csv
 antennas_districts.dta
 antennas_adresses.csv
 antennas_ubigeos.xls
+matrizProba2020.npy
+covid-scraping-peru.rar
