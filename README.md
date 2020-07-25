@@ -9,7 +9,6 @@ Some of the tools you can find here are the following:
 
 1. Jupyter notebook with a WazeRoute based Scraper (for Times and Distances)
 1. Jupyter notebook with a Google DistanceMatrix based Scraper (for Times and Distances)
-1. Reverse Geocoder for antennas locations
 1. Province/District to Ubigeo (Peruvian location id) converter
 
 I've also attached some of the input/output data from the mentioned scripts:
